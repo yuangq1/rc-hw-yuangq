@@ -1,0 +1,35 @@
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+envs/
+.env
+.env.*
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Course materials and local-only work
+线上自学教案/
+提交模板/
+local_setup/
+T02学习材料/
+*仅本地*
+*仅练习*
+
+# Large data and model artifacts
+*.zip
+*.tar
+*.tar.gz
+*.pt
+*.onnx
+*.mp4
+*.avi
+*.mov
+dataset/
+datasets/
+runs/
