@@ -1,0 +1,38 @@
+{
+  "red": {
+    "center": [
+      480.0,
+      270.0
+    ],
+    "error_px": 0.0,
+    "detection_fps": 176.38370992072566,
+    "passed": true
+  },
+  "blue": {
+    "center": [
+      1470.0,
+      270.0
+    ],
+    "error_px": 0.0,
+    "detection_fps": 182.26103083386278,
+    "passed": true
+  },
+  "green": {
+    "center": [
+      480.0,
+      643.32278773652
+    ],
+    "error_px": 0.010512263479995454,
+    "detection_fps": 233.15737930357028,
+    "passed": true
+  },
+  "yellow": {
+    "center": [
+      1440.0,
+      800.0
+    ],
+    "error_px": 0.0,
+    "detection_fps": 242.3307350695212,
+    "passed": true
+  }
+}
